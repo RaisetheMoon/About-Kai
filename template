@@ -1,3 +1,15 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
+# 大标题
+## 中标题
+...
+###### 最小标题
+
+**加粗文字**
+*斜体文字*
+~~删除线~~
+**加粗 _加粗斜体_ 加粗**
+***加粗斜体***
+<sub>上标</sub>
+<sup>下标</sup>
+> 引用文字
+xxx `call out加亮文字` xxx
+
