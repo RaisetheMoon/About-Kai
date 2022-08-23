@@ -26,4 +26,18 @@ xxx `call out加亮文字` xxx
 2. 列表二
 3. 列表三
 
+1. 一级标题
+   - 二级标题
+     - 三级标题
+
+- [x] checked box
+- [ ] uncheck box
+- [ ] \(括号内容) box   --当该行从括号开始时腰加\防止乱码
+
+:表情编号:   （编号参考：https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md）
+
+参考文献详见footnote[^1].
+参考文献详见footnote[^2].  
+[^1]: 参考文献
+[^2]: 参考文献
 
